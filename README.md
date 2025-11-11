@@ -4,6 +4,9 @@ Le presento mi evaluación relacionada al proyecto de Salmontt utilizando POO
 # Estructura
 Este proyecto esta ordenado con sus respectivas clases de objetos en un paquete model además de que en el paquete app se encuentra la clase Main donde se reproducira el programa.
 
+# Instrucciones
+Para reproducir este proyecto debe abrirlo en su IDE de preferencia donde encontrara la clase Main que le mostrara los resultados solicitados.
+
 # Requisitos
 Para trabajar correctamente con los recursos de este repositorio, asegúrate de tener instalado lo siguiente:
 - Java JDK
